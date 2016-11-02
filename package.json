@@ -1,0 +1,19 @@
+{
+  "name": "snapzon",
+  "version": "1.0.0",
+  "description": "it is a new project",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haroldjaykar/assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haroldjaykar/assignment/issues"
+  },
+  "homepage": "https://github.com/haroldjaykar/assignment#readme"
+}
